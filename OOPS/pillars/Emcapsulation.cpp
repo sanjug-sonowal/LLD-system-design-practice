@@ -56,6 +56,6 @@ int main(){
     b1.withdraw(1000);
 
     double bal = b1.getBalance();
-    cout<<"Balance " << bal<<endl;
+    cout<<"Balance = " << bal<<endl;
     return 0;
 }
